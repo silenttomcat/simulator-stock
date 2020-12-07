@@ -1,2 +1,3 @@
 # simulator-stock
-![stock_simulator](https://github.com/silenttomcat/simulator-stock/tree/master/image/stock_simulator.png)
+
+<img src="image/stock_simulator.png" width="400px" height="300px" />
